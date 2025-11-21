@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+p, li {
+    font-size: 16px;
+}
