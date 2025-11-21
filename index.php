@@ -17,6 +17,7 @@
     <ul>
         <li>Intan Tasqiyatul Mudmainnah</li>
         <li>23.N1.0027</li>
+        <li>Manajemen Project"
     </ul>
 
     <p>
